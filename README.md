@@ -1,5 +1,5 @@
 ## lua-pam
-A module for lua  to use PAM.
+A module for lua  to use PAM using lua5.3 for AwesomeWM configs, errors would occur otherwise.
 
 ## Complile
 ```shell
